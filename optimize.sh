@@ -1,6 +1,6 @@
 #!/bin/bash
 optimize() {
-  jpegoptim *.jpg --strip-all
+  jpegoptim *.jpg --strip-all --all-progressive
   for i in *
   do
     if test -d $i
