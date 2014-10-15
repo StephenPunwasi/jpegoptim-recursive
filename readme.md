@@ -9,5 +9,5 @@ Run by typing ./optimize.sh
 
 ## Requirements
 
-..* Linux based system
-..* jpegoptim installed. 
+* Linux based system
+* jpegoptim installed. 
